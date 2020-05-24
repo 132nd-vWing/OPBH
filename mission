@@ -2688,7 +2688,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 681,
-                                ["heading"] = 380.8482429456,
+                                ["heading"] = 393.41461355996,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2126",
                                 ["route"] =
@@ -2714,11 +2714,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 380.8482429456,
+                                        ["heading"] = 393.41461355996,
                                         ["name"] = "DictKey_GroupName_2126",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 375.43571488027,
+                                            ["angle"] = 388.00208549463,
                                             ["x"] = -80.508943405228,
                                             ["y"] = 33.671169439337,
                                         }, -- end of ["offsets"]
@@ -2735,7 +2735,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 683,
-                                ["heading"] = 381.70348850395,
+                                ["heading"] = 394.26985911831,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2132",
                                 ["route"] =
@@ -2761,11 +2761,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 381.70348850395,
+                                        ["heading"] = 394.26985911831,
                                         ["name"] = "DictKey_GroupName_2132",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 376.29096043862,
+                                            ["angle"] = 388.85733105298,
                                             ["x"] = 61.6853222605,
                                             ["y"] = 34.078335538714,
                                         }, -- end of ["offsets"]
@@ -2783,7 +2783,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 684,
-                                ["heading"] = 375.71702807684,
+                                ["heading"] = 388.2833986912,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2135",
                                 ["route"] =
@@ -2809,11 +2809,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 375.71702807684,
+                                        ["heading"] = 388.2833986912,
                                         ["name"] = "DictKey_GroupName_2135",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 370.30450001151,
+                                            ["angle"] = 382.87087062587,
                                             ["x"] = -77.269382825174,
                                             ["y"] = 23.55926453607,
                                         }, -- end of ["offsets"]
@@ -2831,7 +2831,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 685,
-                                ["heading"] = 374.66983052565,
+                                ["heading"] = 387.23620114001,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2138",
                                 ["route"] =
@@ -2857,11 +2857,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 374.66983052565,
+                                        ["heading"] = 387.23620114001,
                                         ["name"] = "DictKey_GroupName_2138",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.25730246032,
+                                            ["angle"] = 381.82367307468,
                                             ["x"] = -76.339394485952,
                                             ["y"] = 27.01227407307,
                                         }, -- end of ["offsets"]
@@ -2879,7 +2879,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 686,
-                                ["heading"] = 374.66983052565,
+                                ["heading"] = 387.23620114001,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2141",
                                 ["route"] =
@@ -2905,11 +2905,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 374.66983052565,
+                                        ["heading"] = 387.23620114001,
                                         ["name"] = "DictKey_GroupName_2141",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.25730246032,
+                                            ["angle"] = 381.82367307468,
                                             ["x"] = -73.112344695579,
                                             ["y"] = 25.625393546114,
                                         }, -- end of ["offsets"]
@@ -2927,7 +2927,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 687,
-                                ["heading"] = 335.99333430145,
+                                ["heading"] = 348.55970491581,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2144",
                                 ["route"] =
@@ -2953,11 +2953,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 335.99333430145,
+                                        ["heading"] = 348.55970491581,
                                         ["name"] = "DictKey_GroupName_2144",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 330.58080623612,
+                                            ["angle"] = 343.14717685048,
                                             ["x"] = -66.502636319425,
                                             ["y"] = 24.538804284566,
                                         }, -- end of ["offsets"]
@@ -2976,7 +2976,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 688,
-                                ["heading"] = 372.88959468861,
+                                ["heading"] = 385.45596530297,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2147",
                                 ["route"] =
@@ -3002,11 +3002,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 372.88959468861,
+                                        ["heading"] = 385.45596530297,
                                         ["name"] = "DictKey_GroupName_2147",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 367.47706662328,
+                                            ["angle"] = 380.04343723764,
                                             ["x"] = -129.34406004493,
                                             ["y"] = -22.00707429276,
                                         }, -- end of ["offsets"]
@@ -3025,7 +3025,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 689,
-                                ["heading"] = 374.60001735557,
+                                ["heading"] = 387.16638796993,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2150",
                                 ["route"] =
@@ -3051,11 +3051,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 374.60001735557,
+                                        ["heading"] = 387.16638796993,
                                         ["name"] = "DictKey_GroupName_2150",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.18748929024,
+                                            ["angle"] = 381.7538599046,
                                             ["x"] = -74.591291302952,
                                             ["y"] = 22.76722317946,
                                         }, -- end of ["offsets"]
@@ -3073,7 +3073,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 690,
-                                ["heading"] = 374.60001735557,
+                                ["heading"] = 387.16638796993,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2153",
                                 ["route"] =
@@ -3099,11 +3099,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 374.60001735557,
+                                        ["heading"] = 387.16638796993,
                                         ["name"] = "DictKey_GroupName_2153",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.18748929024,
+                                            ["angle"] = 381.7538599046,
                                             ["x"] = -74.707073821942,
                                             ["y"] = 24.35918721619,
                                         }, -- end of ["offsets"]
@@ -3121,7 +3121,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 691,
-                                ["heading"] = 374.60001735557,
+                                ["heading"] = 387.16638796993,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2156",
                                 ["route"] =
@@ -3147,11 +3147,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 374.60001735557,
+                                        ["heading"] = 387.16638796993,
                                         ["name"] = "DictKey_GroupName_2156",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.18748929024,
+                                            ["angle"] = 381.7538599046,
                                             ["x"] = -73.281142587357,
                                             ["y"] = 22.858920002153,
                                         }, -- end of ["offsets"]
@@ -3169,7 +3169,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 692,
-                                ["heading"] = 373.46555334177,
+                                ["heading"] = 386.03192395613,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2159",
                                 ["route"] =
@@ -3195,11 +3195,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 373.46555334177,
+                                        ["heading"] = 386.03192395613,
                                         ["name"] = "DictKey_GroupName_2159",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 368.05302527644,
+                                            ["angle"] = 380.6193958908,
                                             ["x"] = 59.762984288443,
                                             ["y"] = 32.734373630868,
                                         }, -- end of ["offsets"]
@@ -3218,7 +3218,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 693,
-                                ["heading"] = 374.60001735557,
+                                ["heading"] = 387.16638796993,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2162",
                                 ["route"] =
@@ -3244,12 +3244,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 374.60001735557,
+                                        ["heading"] = 387.16638796993,
                                         ["livery_id"] = "red",
                                         ["name"] = "DictKey_GroupName_2162",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.18748929024,
+                                            ["angle"] = 381.7538599046,
                                             ["x"] = 64.646799372529,
                                             ["y"] = 34.745295638648,
                                         }, -- end of ["offsets"]
@@ -3268,7 +3268,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 694,
-                                ["heading"] = 374.60001735557,
+                                ["heading"] = 387.16638796993,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2165",
                                 ["route"] =
@@ -3294,12 +3294,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 374.60001735557,
+                                        ["heading"] = 387.16638796993,
                                         ["livery_id"] = "red",
                                         ["name"] = "DictKey_GroupName_2165",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.18748929024,
+                                            ["angle"] = 381.7538599046,
                                             ["x"] = 67.647633641128,
                                             ["y"] = 32.589108445669,
                                         }, -- end of ["offsets"]
@@ -3318,7 +3318,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 695,
-                                ["heading"] = 375.97882746464,
+                                ["heading"] = 388.545198079,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2168",
                                 ["route"] =
@@ -3344,12 +3344,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Helicopters",
-                                        ["heading"] = 375.97882746464,
+                                        ["heading"] = 388.545198079,
                                         ["livery_id"] = "standard",
                                         ["name"] = "DictKey_GroupName_2168",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 370.56629939931,
+                                            ["angle"] = 383.13267001367,
                                             ["x"] = -65.431892923518,
                                             ["y"] = 19.224087429568,
                                         }, -- end of ["offsets"]
@@ -3367,7 +3367,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 696,
-                                ["heading"] = 374.53020418549,
+                                ["heading"] = 387.09657479985,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2171",
                                 ["route"] =
@@ -3393,12 +3393,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Helicopters",
-                                        ["heading"] = 374.53020418549,
+                                        ["heading"] = 387.09657479985,
                                         ["livery_id"] = "standard",
                                         ["name"] = "DictKey_GroupName_2171",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.11767612016,
+                                            ["angle"] = 381.68404673452,
                                             ["x"] = -58.898943866874,
                                             ["y"] = 16.562613196221,
                                         }, -- end of ["offsets"]
@@ -3416,7 +3416,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 697,
-                                ["heading"] = 375.62976161424,
+                                ["heading"] = 388.1961322286,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2174",
                                 ["route"] =
@@ -3442,12 +3442,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Planes",
-                                        ["heading"] = 375.62976161424,
+                                        ["heading"] = 388.1961322286,
                                         ["livery_id"] = "VAW-125 Tigertails",
                                         ["name"] = "DictKey_GroupName_2174",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 370.21723354891,
+                                            ["angle"] = 382.78360416327,
                                             ["x"] = -46.515184811706,
                                             ["y"] = 14.90428288713,
                                         }, -- end of ["offsets"]
@@ -3465,7 +3465,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 698,
-                                ["heading"] = 371.16171872914,
+                                ["heading"] = 383.7280893435,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2177",
                                 ["route"] =
@@ -3491,11 +3491,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 371.16171872914,
+                                        ["heading"] = 383.7280893435,
                                         ["name"] = "DictKey_GroupName_2177",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 365.74919066381,
+                                            ["angle"] = 378.31556127817,
                                             ["x"] = -65.637941994155,
                                             ["y"] = 16.925770647219,
                                         }, -- end of ["offsets"]
@@ -3514,7 +3514,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 699,
-                                ["heading"] = 373.04667432129,
+                                ["heading"] = 385.61304493565,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2180",
                                 ["route"] =
@@ -3540,11 +3540,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 373.04667432129,
+                                        ["heading"] = 385.61304493565,
                                         ["name"] = "DictKey_GroupName_2180",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 367.63414625596,
+                                            ["angle"] = 380.20051687032,
                                             ["x"] = -56.900022211106,
                                             ["y"] = 13.58071217641,
                                         }, -- end of ["offsets"]
@@ -3563,7 +3563,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 700,
-                                ["heading"] = 375.17597600872,
+                                ["heading"] = 387.74234662308,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2183",
                                 ["route"] =
@@ -3589,11 +3589,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 375.17597600872,
+                                        ["heading"] = 387.74234662308,
                                         ["name"] = "DictKey_GroupName_2183",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.76344794339,
+                                            ["angle"] = 382.32981855775,
                                             ["x"] = 61.531418617318,
                                             ["y"] = 31.618628135561,
                                         }, -- end of ["offsets"]
@@ -3612,7 +3612,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 701,
-                                ["heading"] = 371.24898519174,
+                                ["heading"] = 383.8153558061,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2186",
                                 ["route"] =
@@ -3638,11 +3638,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 371.24898519174,
+                                        ["heading"] = 383.8153558061,
                                         ["name"] = "DictKey_GroupName_2186",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 365.83645712641,
+                                            ["angle"] = 378.40282774077,
                                             ["x"] = -41.361000212589,
                                             ["y"] = 10.130950815282,
                                         }, -- end of ["offsets"]
@@ -3661,7 +3661,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 702,
-                                ["heading"] = 372.88959468861,
+                                ["heading"] = 385.45596530297,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2189",
                                 ["route"] =
@@ -3687,11 +3687,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 372.88959468861,
+                                        ["heading"] = 385.45596530297,
                                         ["name"] = "DictKey_GroupName_2189",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 367.47706662328,
+                                            ["angle"] = 380.04343723764,
                                             ["x"] = -128.98017138639,
                                             ["y"] = -20.333561135956,
                                         }, -- end of ["offsets"]
@@ -3710,7 +3710,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 709,
-                                ["heading"] = 374.66983052565,
+                                ["heading"] = 387.23620114001,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2256",
                                 ["route"] =
@@ -3736,11 +3736,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 374.66983052565,
+                                        ["heading"] = 387.23620114001,
                                         ["name"] = "DictKey_GroupName_2256",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 369.25730246032,
+                                            ["angle"] = 381.82367307468,
                                             ["x"] = -65.334259972421,
                                             ["y"] = 23.442335565773,
                                         }, -- end of ["offsets"]
@@ -3759,7 +3759,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 710,
-                                ["heading"] = 335.08576309041,
+                                ["heading"] = 347.65213370477,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2259",
                                 ["route"] =
@@ -3785,11 +3785,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 335.08576309041,
+                                        ["heading"] = 347.65213370477,
                                         ["name"] = "DictKey_GroupName_2259",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 329.67323502508,
+                                            ["angle"] = 342.23960563944,
                                             ["x"] = -66.048744276973,
                                             ["y"] = 32.039423471811,
                                         }, -- end of ["offsets"]
@@ -5475,7 +5475,7 @@ mission =
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 462.59719746733,
+                                            ["ETA"] = 608.94864063865,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 9144,
@@ -5509,12 +5509,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 3688.0646792997,
-                                            ["y"] = 191961.9066776,
+                                            ["x"] = 44336.537913557,
+                                            ["y"] = 196012.39568073,
                                         }, -- end of [3]
                                         [4] =
                                         {
-                                            ["ETA"] = 798.16398102504,
+                                            ["ETA"] = 825.93372575345,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 9144,
@@ -5534,8 +5534,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -68658.714446441,
-                                            ["y"] = 148626.67153013,
+                                            ["x"] = -5654.8123952196,
+                                            ["y"] = 174228.45532272,
                                         }, -- end of [4]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -23877,6 +23877,7 @@ mission =
                                 }, -- end of ["route"]
                                 ["start_time"] = 0,
                                 ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
                                 ["tasks"] =
                                 {
                                 }, -- end of ["tasks"]
@@ -24182,6 +24183,7 @@ mission =
                                 }, -- end of ["route"]
                                 ["start_time"] = 0,
                                 ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
                                 ["tasks"] =
                                 {
                                 }, -- end of ["tasks"]
@@ -24230,8 +24232,8 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Tor 9A331",
                                         ["unitId"] = 1526,
-                                        ["x"] = -40835.290977243,
-                                        ["y"] = 120668.10047722,
+                                        ["x"] = -40849.610339438,
+                                        ["y"] = 120732.18870515,
                                     }, -- end of [3]
                                     [4] =
                                     {
@@ -24337,6 +24339,7 @@ mission =
                                 }, -- end of ["route"]
                                 ["start_time"] = 0,
                                 ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
                                 ["tasks"] =
                                 {
                                 }, -- end of ["tasks"]
@@ -24438,6 +24441,570 @@ mission =
                                 ["x"] = -61136.194790272,
                                 ["y"] = 183744.19648657,
                             }, -- end of [23]
+                            [24] =
+                            {
+                                ["groupId"] = 768,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_2696",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 30,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_2698",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -33484.331891463,
+                                            ["y"] = 123928.53912404,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2697",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1556,
+                                        ["x"] = -33484.331891463,
+                                        ["y"] = 123928.53912404,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2699",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1557,
+                                        ["x"] = -33540.067449234,
+                                        ["y"] = 124135.94849476,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2700",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1558,
+                                        ["x"] = -33512.656519183,
+                                        ["y"] = 124035.44175124,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2701",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1559,
+                                        ["x"] = -33572.046867627,
+                                        ["y"] = 124239.19633128,
+                                    }, -- end of [4]
+                                    [5] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2702",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1560,
+                                        ["x"] = -33612.249565036,
+                                        ["y"] = 124355.23593517,
+                                    }, -- end of [5]
+                                    [6] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2703",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1561,
+                                        ["x"] = -33648.797471771,
+                                        ["y"] = 124466.70705071,
+                                    }, -- end of [6]
+                                    [7] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2704",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1562,
+                                        ["x"] = -33398.444310636,
+                                        ["y"] = 124054.62940227,
+                                    }, -- end of [7]
+                                    [8] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2705",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1563,
+                                        ["x"] = -33514.48391452,
+                                        ["y"] = 124400.92081859,
+                                    }, -- end of [8]
+                                    [9] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2706",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1564,
+                                        ["x"] = -33467.885333433,
+                                        ["y"] = 124223.66347092,
+                                    }, -- end of [9]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -33484.331891463,
+                                ["y"] = 123928.53912404,
+                            }, -- end of [24]
+                            [25] =
+                            {
+                                ["groupId"] = 769,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_2707",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 30,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_2717",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -53122.934964678,
+                                            ["y"] = 189780.41406572,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2708",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1565,
+                                        ["x"] = -53122.934964678,
+                                        ["y"] = 189780.41406572,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2709",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1566,
+                                        ["x"] = -53178.670522449,
+                                        ["y"] = 189987.82343644,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2710",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1567,
+                                        ["x"] = -53151.259592398,
+                                        ["y"] = 189887.31669292,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2711",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1568,
+                                        ["x"] = -53210.649940842,
+                                        ["y"] = 190091.07127297,
+                                    }, -- end of [4]
+                                    [5] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2712",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1569,
+                                        ["x"] = -53250.852638251,
+                                        ["y"] = 190207.11087685,
+                                    }, -- end of [5]
+                                    [6] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2713",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1570,
+                                        ["x"] = -53287.400544986,
+                                        ["y"] = 190318.58199239,
+                                    }, -- end of [6]
+                                    [7] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2714",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1571,
+                                        ["x"] = -53037.047383851,
+                                        ["y"] = 189906.50434395,
+                                    }, -- end of [7]
+                                    [8] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2715",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1572,
+                                        ["x"] = -53153.086987735,
+                                        ["y"] = 190252.79576027,
+                                    }, -- end of [8]
+                                    [9] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2716",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1573,
+                                        ["x"] = -53106.488406647,
+                                        ["y"] = 190075.5384126,
+                                    }, -- end of [9]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -53122.934964678,
+                                ["y"] = 189780.41406572,
+                            }, -- end of [25]
+                            [26] =
+                            {
+                                ["groupId"] = 770,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_2718",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 30,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_2728",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -49983.232423603,
+                                            ["y"] = 159158.55256155,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2719",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1574,
+                                        ["x"] = -49983.232423603,
+                                        ["y"] = 159158.55256155,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2720",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1575,
+                                        ["x"] = -50038.967981374,
+                                        ["y"] = 159365.96193227,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2721",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1576,
+                                        ["x"] = -50011.557051323,
+                                        ["y"] = 159265.45518875,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2722",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1577,
+                                        ["x"] = -50070.947399767,
+                                        ["y"] = 159469.2097688,
+                                    }, -- end of [4]
+                                    [5] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2723",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1578,
+                                        ["x"] = -50111.150097175,
+                                        ["y"] = 159585.24937268,
+                                    }, -- end of [5]
+                                    [6] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2724",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 1579,
+                                        ["x"] = -50147.69800391,
+                                        ["y"] = 159696.72048822,
+                                    }, -- end of [6]
+                                    [7] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2725",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1580,
+                                        ["x"] = -49897.344842776,
+                                        ["y"] = 159284.64283979,
+                                    }, -- end of [7]
+                                    [8] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2726",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1581,
+                                        ["x"] = -50013.384446659,
+                                        ["y"] = 159630.9342561,
+                                    }, -- end of [8]
+                                    [9] =
+                                    {
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_UnitName_2727",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 1582,
+                                        ["x"] = -49966.785865572,
+                                        ["y"] = 159453.67690843,
+                                    }, -- end of [9]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -49983.232423603,
+                                ["y"] = 159158.55256155,
+                            }, -- end of [26]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [8]
@@ -31133,7 +31700,7 @@ mission =
             [18] = 7,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 306178,
+    ["currentKey"] = 312082,
     ["date"] =
     {
         ["Day"] = 21,
@@ -38045,11 +38612,11 @@ mission =
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 54737.584288444,
-        ["centerY"] = 78491.417685025,
-        ["zoom"] = 1489840.7304439,
+        ["centerX"] = -57047.657973858,
+        ["centerY"] = 161649.85719234,
+        ["zoom"] = 98594.831320289,
     }, -- end of ["map"]
-    ["maxDictId"] = 2695,
+    ["maxDictId"] = 2736,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
