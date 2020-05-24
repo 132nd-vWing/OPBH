@@ -8,5 +8,5 @@ mapResource =
     ["ResKey_Action_2371"] = "PAC-3 Skynet.lua",
     ["ResKey_Action_2372"] = "PAC-4 Skynet.lua",
     ["ResKey_Action_2416"] = "A2A Dispatcher.lua",
-    ["ResKey_Action_2455"] = "OPBH_tankers.lua",
+    ["ResKey_Action_2748"] = "CVN TKR.lua",
 } -- end of mapResource
