@@ -115,7 +115,7 @@ awacs3spawn()
 -- note, TACAN are on channel Y
 _TANKER_UNITS = {
   {NAME='SHL_KC-135_MPRS_SHELL #IFF:5003FR',   TACAN=38 },
-  {NAME='ARO_KC-130_ARCO #IFF:5005FR',  TACAN=39 },
+  {NAME='SHL2_KC-135_MPRS_ARCO #IFF:5005FR',  TACAN=39 },
   {NAME='TEX_KC-135_TEXACO #IFF:5004FR', TACAN=10 },
   {NAME='IranRefueller', TACAN=62 }
 }
@@ -538,7 +538,7 @@ end
 
 ---DESPAWNWERS---
 
-AWACS_Tankers  = SET_GROUP:New():FilterPrefixes({"AWACS FOCUS #IFF:5002FR", "AWACS MAGIC #IFF:5001FR", "SHL_KC-135_MPRS_SHELL #IFF:5003FR", "ARO_KC-130_ARCO #IFF:5005FR", "TEX_KC-135_TEXACO #IFF:5004FR","IRAN AWACS#IFF:9001EN","IranRefueller"}):FilterStart()
+AWACS_Tankers  = SET_GROUP:New():FilterPrefixes({"AWACS FOCUS #IFF:5002FR", "AWACS MAGIC #IFF:5001FR", "EWR IRAN AWACS Kerman Shiraz", "SHL_KC-135_MPRS_SHELL #IFF:5003FR", "SHL2_KC-135_MPRS_ARCO #IFF:5005FR","TEX_KC-135_TEXACO #IFF:5004FR","IranRefueller"}):FilterStart()
 SCHEDULER:New(nil,function()
   AWACS_Tankers:ForEachGroupAlive(function(_group)
     local _unit = _group:GetUnit(1)
