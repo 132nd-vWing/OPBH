@@ -8,11 +8,11 @@ AbbasCap = true
 
 JiroftGCI = true
 LarGCI = true
-JaskGCI = false
+JaskGCI = true
 
 --SQUADRON SIZES
 
-LarNumbers = 12a
+LarNumbers = 12
 AbbasNumbers = 12
 
 
@@ -26,9 +26,9 @@ JaskGCINumbers = 2
 function pickNumber() -- picks a random number of 1-4 with a weighting of 2 about 2/3rds of the time
 local choose = math.random(1,100)
 if choose < 6 then env.info("someone is a singleton") return 1
-elseif choose >=6 and choose < 90 then env.info("someone is a 2ship") return 2
-elseif choose >= 90 and choose < 97 then env.info("someone is a 3 ship") return 3
-elseif choose >= 97 then env.info("someone is a fourship") return 4
+elseif choose >=6 and choose < 70 then env.info("someone is a 2ship") return 2
+elseif choose >= 70 and choose < 90 then env.info("someone is a 3 ship") return 3
+elseif choose >= 90 then env.info("someone is a fourship") return 4
 end
 end
 
@@ -81,7 +81,7 @@ end
 
 --LAR GCI ONLY
 larOn = math.random(1,100)
-if larOn <50 then 
+if larOn <1 then 
 LarGCI = false
 A2ADispatcher:SetSquadron( "LarSqn", "Lar Airbase", ("Bogey-Lar") , LarGCINumbers )
 A2ADispatcher:SetSquadronTakeoffFromParkingHot( "LarSqn" ) --does runway t/o work?
@@ -137,30 +137,31 @@ end
 
 --JASK GCI ONLY
 if JaskGCI == true then
-A2ADispatcher:SetSquadron( "JaskSqn", "Bandar-e-Jask airfield", ("Bogey-Jask") , JaskGCINumbers)
+A2ADispatcher:SetSquadron( "JaskSqn", "Bandar Abbas Intl", ("Bogey-Jask") , JaskGCINumbers)
 A2ADispatcher:SetSquadronTakeoffFromParkingHot( "JaskSqn" ) --does runway t/o work?
 A2ADispatcher:SetSquadronLandingAtEngineShutdown( "JaskSqn" )
 A2ADispatcher:SetSquadronGci("JaskSqn", 900, 1200 )
+A2ADispatcher:SetGciRadius( 300000 )
 env.info("Jask GCI enabled")
 end
 
 --SCHEDULERS for swapsies (new group sizes and swap Kerman/Shiraz)
-SCHEDULER:New( nil, function()
-if ShirazCap == true then A2ADispatcher:SetSquadronCap( "ShirazSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO",0) end
-if ShirazCap == true then A2ADispatcher:SetSquadronGrouping( "ShirazSqn", pickNumber() ) end
-if KermanCap == true then A2ADispatcher:SetSquadronCap( "KermanSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO") end
-if KermanCap == true then A2ADispatcher:SetSquadronGrouping( "KermanSqn", pickNumber() ) end
-if LarCap == true then A2ADispatcher:SetSquadronGrouping( "ShirazSqn2", pickNumber() ) end
-if AbbasCap == true then A2ADispatcher:SetSquadronGrouping( "AbbasSqn", pickNumber() ) end
-end, {}, 0, 6200) --immediately, every 2hrs
+--SCHEDULER:New( nil, function()
+--if ShirazCap == true then A2ADispatcher:SetSquadronCap( "ShirazSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO",0) end
+--if ShirazCap == true then A2ADispatcher:SetSquadronGrouping( "ShirazSqn", pickNumber() ) end
+--if KermanCap == true then A2ADispatcher:SetSquadronCap( "KermanSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO") end
+--if KermanCap == true then A2ADispatcher:SetSquadronGrouping( "KermanSqn", pickNumber() ) end
+--if LarCap == true then A2ADispatcher:SetSquadronGrouping( "ShirazSqn2", pickNumber() ) end
+--if AbbasCap == true then A2ADispatcher:SetSquadronGrouping( "AbbasSqn", pickNumber() ) end
+--end, {}, 0, 6200) --immediately, every 2hrs
 
-SCHEDULER:New( nil, function()
-if ShirazCap == true then A2ADispatcher:SetSquadronCap( "ShirazSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO") end
-if ShirazCap == true then A2ADispatcher:SetSquadronGrouping( "ShirazSqn", pickNumber() ) end
-if KermanCap == true then A2ADispatcher:SetSquadronCap( "KermanSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO",0) end
-if KermanCap == true then A2ADispatcher:SetSquadronGrouping( "KermanSqn", pickNumber() ) end
-if LarCap == true then A2ADispatcher:SetSquadronGrouping( "ShirazSqn2", pickNumber() ) end
-if AbbasCap == true then A2ADispatcher:SetSquadronGrouping( "AbbasSqn", pickNumber() ) end
-end, {}, 3600, 6200) --after 1 hour, every 2 hrs
+--SCHEDULER:New( nil, function()
+--if ShirazCap == true then A2ADispatcher:SetSquadronCap( "ShirazSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO") end
+--if ShirazCap == true then A2ADispatcher:SetSquadronGrouping( "ShirazSqn", pickNumber() ) end
+--if KermanCap == true then A2ADispatcher:SetSquadronCap( "KermanSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO",0) end
+--if KermanCap == true then A2ADispatcher:SetSquadronGrouping( "KermanSqn", pickNumber() ) end
+--if LarCap == true then A2ADispatcher:SetSquadronGrouping( "ShirazSqn2", pickNumber() ) end
+--if AbbasCap == true then A2ADispatcher:SetSquadronGrouping( "AbbasSqn", pickNumber() ) end
+--end, {}, 3600, 6200) --after 1 hour, every 2 hrs
 
 
