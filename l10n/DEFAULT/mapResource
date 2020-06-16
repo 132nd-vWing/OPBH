@@ -1,15 +1,15 @@
 mapResource = 
 {
     ["ResKey_Action_1977"] = "mist_4_3_74.lua",
-    ["ResKey_Action_1978"] = "skynet-iads-compiled.lua",
     ["ResKey_Action_2369"] = "PAC-1 Skynet.lua",
     ["ResKey_Action_2370"] = "PAC-2 Skynet.lua",
     ["ResKey_Action_2371"] = "PAC-3 Skynet.lua",
     ["ResKey_Action_2372"] = "PAC-4 Skynet.lua",
     ["ResKey_Action_2752"] = "OPBH_tankers.lua",
-    ["ResKey_Action_3289"] = "Moose2.5.lua",
     ["ResKey_Action_3316"] = "Rescue_Helo.lua",
     ["ResKey_Action_3317"] = "CVN TKR.lua",
     ["ResKey_Action_3375"] = "A2A Dispatcher.lua",
     ["ResKey_Action_3421"] = "OPBH_RAT2.lua",
+    ["ResKey_Action_3449"] = "skynet-iads-compiled.lua",
+    ["ResKey_Action_3452"] = "Moose.lua",
 } -- end of mapResource
