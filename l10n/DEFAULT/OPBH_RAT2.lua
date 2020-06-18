@@ -1,4 +1,6 @@
 
+_SETTINGS:SetPlayerMenuOff()
+
 local a380table = { 'Emirates', 'Qantas Airways', 'Korean Air' }
 
 EK380DXBA = SPAWN:New( "RAT EK380" )
