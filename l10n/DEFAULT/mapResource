@@ -12,4 +12,5 @@ mapResource =
     ["ResKey_Action_3469"] = "A2A Dispatcher.lua",
     ["ResKey_Action_3470"] = "OPBH_RAT2.lua",
     ["ResKey_Action_3471"] = "Rescue_Helo.lua",
+    ["ResKey_Action_3537"] = "CTLD.lua",
 } -- end of mapResource
