@@ -1195,7 +1195,7 @@ mission =
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 557.25977230344,
+                                            ["ETA"] = 71.978723645627,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 2000,
@@ -1215,12 +1215,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -65722.948240101,
-                                            ["y"] = -49863.225353036,
+                                            ["x"] = -126357.4675817,
+                                            ["y"] = -97247.445874367,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 392.80118711654,
+                                            ["ETA"] = 281.75647741323,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 3048,
@@ -1240,12 +1240,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -80013.064338434,
-                                            ["y"] = -76965.16967746,
+                                            ["x"] = -125938.05356653,
+                                            ["y"] = -70300.095399711,
                                         }, -- end of [3]
                                         [4] =
                                         {
-                                            ["ETA"] = 561.09318763505,
+                                            ["ETA"] = 470.77045325991,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 6096,
@@ -1265,12 +1265,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -104651.19554246,
-                                            ["y"] = -68834.586380133,
+                                            ["x"] = -120485.67136932,
+                                            ["y"] = -41675.088864376,
                                         }, -- end of [4]
                                         [5] =
                                         {
-                                            ["ETA"] = 676.29449060443,
+                                            ["ETA"] = 754.59365470376,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 9144,
@@ -1304,12 +1304,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -103172.90767021,
-                                            ["y"] = -41732.642055709,
+                                            ["x"] = -123736.12998689,
+                                            ["y"] = 25116.593051405,
                                         }, -- end of [5]
                                         [6] =
                                         {
-                                            ["ETA"] = 888.99969385173,
+                                            ["ETA"] = 939.0588709073,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 9144,
@@ -1329,8 +1329,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -63259.135119699,
-                                            ["y"] = -11427.740674763,
+                                            ["x"] = -84166.581820258,
+                                            ["y"] = 7140.6414142915,
                                         }, -- end of [6]
                                     }, -- end of ["points"]
                                     ["routeRelativeTOT"] = true,
@@ -1355,7 +1355,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Overlord11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 0.56178430681253,
+                                        ["heading"] = -1.5757105736329,
                                         ["livery_id"] = "nato",
                                         ["name"] = "DictKey_UnitName_2418",
                                         ["onboard_num"] = "010",
@@ -1371,7 +1371,7 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -0.56178430681253,
+                                        ["psi"] = 1.5757105736329,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "E-3A",
@@ -1582,7 +1582,7 @@ mission =
                                         }, -- end of [4]
                                         [5] =
                                         {
-                                            ["ETA"] = 611.81950894366,
+                                            ["ETA"] = 858.39703097318,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7620,
@@ -1754,19 +1754,13 @@ mission =
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 298.53416806732,
+                                            ["ETA"] = 198.83296687534,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 2000,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_2437",
-                                            ["properties"] =
-                                            {
-                                                ["addopt"] =
-                                                {
-                                                }, -- end of ["addopt"]
-                                            }, -- end of ["properties"]
                                             ["speed"] = 138.88888888889,
                                             ["speed_locked"] = true,
                                             ["task"] =
@@ -1780,12 +1774,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -85383.392378414,
-                                            ["y"] = -114762.58324505,
+                                            ["x"] = -79684.495504804,
+                                            ["y"] = -98442.80398185,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 444.74748074982,
+                                            ["ETA"] = 546.48912055953,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 4572,
@@ -1805,12 +1799,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -62343.700782462,
-                                            ["y"] = -97247.199758059,
+                                            ["x"] = -90828.38761008,
+                                            ["y"] = -51460.779702685,
                                         }, -- end of [3]
                                         [4] =
                                         {
-                                            ["ETA"] = 646.39834899061,
+                                            ["ETA"] = 932.00713646796,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7315.2,
@@ -1845,12 +1839,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -40927.559444119,
-                                            ["y"] = -70705.828013959,
+                                            ["x"] = -106696.03341324,
+                                            ["y"] = 40168.656426818,
                                         }, -- end of [4]
                                         [5] =
                                         {
-                                            ["ETA"] = 753.67685866904,
+                                            ["ETA"] = 1205.2409280885,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7315.2,
@@ -1870,8 +1864,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -18047.066561275,
-                                            ["y"] = -37391.830376538,
+                                            ["x"] = -160450.33296587,
+                                            ["y"] = 78305.198096896,
                                         }, -- end of [5]
                                     }, -- end of ["points"]
                                     ["routeRelativeTOT"] = true,
@@ -1896,7 +1890,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Shell11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.3832103612896,
+                                        ["heading"] = -1.0649116900425,
                                         ["livery_id"] = "100th ARW",
                                         ["name"] = "DictKey_UnitName_2435",
                                         ["onboard_num"] = "013",
@@ -1912,7 +1906,7 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3832103612896,
+                                        ["psi"] = 1.0649116900425,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "KC135MPRS",
@@ -2023,7 +2017,7 @@ mission =
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 236.36798102848,
+                                            ["ETA"] = 123.53442259759,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 2000,
@@ -2043,12 +2037,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -85493.9027138,
-                                            ["y"] = -114834.86551165,
+                                            ["x"] = -80343.124025792,
+                                            ["y"] = -98448.340127584,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 396.66632194664,
+                                            ["ETA"] = 340.94014966759,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 4572,
@@ -2068,12 +2062,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -77985.233220056,
-                                            ["y"] = -85657.946094818,
+                                            ["x"] = -92956.312933556,
+                                            ["y"] = -52093.089367696,
                                         }, -- end of [3]
                                         [4] =
                                         {
-                                            ["ETA"] = 633.11871485401,
+                                            ["ETA"] = 750.07677208221,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7315.2,
@@ -2108,12 +2102,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -73710.085404399,
-                                            ["y"] = -38185.992225126,
+                                            ["x"] = -110543.33972298,
+                                            ["y"] = 36587.641174262,
                                         }, -- end of [4]
                                         [5] =
                                         {
-                                            ["ETA"] = 816.94193840818,
+                                            ["ETA"] = 1043.3723571471,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7315.2,
@@ -2133,8 +2127,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -25347.475739779,
-                                            ["y"] = -154.98978167677,
+                                            ["x"] = -162967.14868358,
+                                            ["y"] = 74694.114675846,
                                         }, -- end of [5]
                                     }, -- end of ["points"]
                                     ["routeRelativeTOT"] = true,
@@ -2159,7 +2153,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Shell21",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.3834710988897,
+                                        ["heading"] = -1.0817318735535,
                                         ["livery_id"] = "100th ARW",
                                         ["name"] = "DictKey_UnitName_2442",
                                         ["onboard_num"] = "013",
@@ -2175,7 +2169,7 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3834710988897,
+                                        ["psi"] = 1.0817318735535,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "KC135MPRS",
@@ -2235,7 +2229,7 @@ mission =
                                                             ["auto"] = true,
                                                             ["enabled"] = true,
                                                             ["id"] = "WrappedAction",
-                                                            ["name"] = "TEX",
+                                                            ["name"] = "TX1",
                                                             ["number"] = 2,
                                                             ["params"] =
                                                             {
@@ -2246,11 +2240,11 @@ mission =
                                                                     {
                                                                         ["AA"] = true,
                                                                         ["bearing"] = true,
-                                                                        ["callsign"] = "TEX",
+                                                                        ["callsign"] = "TX1",
                                                                         ["channel"] = 10,
                                                                         ["frequency"] = 1097000000,
                                                                         ["modeChannel"] = "Y",
-                                                                        ["name"] = "TEX",
+                                                                        ["name"] = "TX1",
                                                                         ["system"] = 4,
                                                                         ["type"] = 4,
                                                                         ["unitId"] = 1384,
@@ -2286,7 +2280,7 @@ mission =
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 236.36798102848,
+                                            ["ETA"] = 122.82238899565,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 2000,
@@ -2306,12 +2300,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -85610.70151384,
-                                            ["y"] = -114928.33320538,
+                                            ["x"] = -80058.080208668,
+                                            ["y"] = -98092.035356178,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 334.39343877622,
+                                            ["ETA"] = 357.04711757628,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 4572,
@@ -2331,12 +2325,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -76059.545301097,
-                                            ["y"] = -146016.64068997,
+                                            ["x"] = -92135.736001456,
+                                            ["y"] = -51952.742324863,
                                         }, -- end of [3]
                                         [4] =
                                         {
-                                            ["ETA"] = 384.71656932351,
+                                            ["ETA"] = 753.76517869031,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7315.2,
@@ -2371,12 +2365,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -59964.129522646,
-                                            ["y"] = -157285.61308264,
+                                            ["x"] = -108808.86852952,
+                                            ["y"] = 38246.171351558,
                                         }, -- end of [4]
                                         [5] =
                                         {
-                                            ["ETA"] = 634.54164112431,
+                                            ["ETA"] = 1049.6276244173,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7315.2,
@@ -2396,8 +2390,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -40195.383671868,
-                                            ["y"] = -115002.46223515,
+                                            ["x"] = -161789.42430993,
+                                            ["y"] = 76551.03788342,
                                         }, -- end of [5]
                                     }, -- end of ["points"]
                                     ["routeRelativeTOT"] = true,
@@ -2422,7 +2416,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Texaco11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.3920155633295,
+                                        ["heading"] = -1.0750931020633,
                                         ["livery_id"] = "Standard USAF",
                                         ["name"] = "DictKey_UnitName_2449",
                                         ["onboard_num"] = "013",
@@ -2438,7 +2432,7 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.3920155633295,
+                                        ["psi"] = 1.0750931020633,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "KC-135",
@@ -2850,7 +2844,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1638.8290410461,
+                                        ["heading"] = 1689.0945235037,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2814",
                                         ["onboard_num"] = "301",
@@ -3640,7 +3634,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1638.8290410461,
+                                        ["heading"] = 1689.0945235037,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2820",
                                         ["onboard_num"] = "305",
@@ -4430,7 +4424,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1638.8290410461,
+                                        ["heading"] = 1689.0945235037,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2829",
                                         ["onboard_num"] = "309",
@@ -5220,7 +5214,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1638.8290410461,
+                                        ["heading"] = 1689.0945235037,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2838",
                                         ["onboard_num"] = "317",
@@ -6010,7 +6004,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1638.8290410461,
+                                        ["heading"] = 1689.0945235037,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2850",
                                         ["onboard_num"] = "313",
@@ -6800,7 +6794,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1638.8290410461,
+                                        ["heading"] = 1689.0945235037,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2859",
                                         ["onboard_num"] = "321",
@@ -7548,7 +7542,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 388.26908949798,
+                                        ["heading"] = 438.53457195542,
                                         ["livery_id"] = "108th - High-Vis",
                                         ["name"] = "DictKey_UnitName_2868",
                                         ["onboard_num"] = "201",
@@ -8227,7 +8221,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Springfield21",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 388.26908949798,
+                                        ["heading"] = 438.53457195542,
                                         ["livery_id"] = "108th - High-Vis",
                                         ["name"] = "DictKey_UnitName_2881",
                                         ["onboard_num"] = "205",
@@ -8906,7 +8900,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Springfield31",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 388.26908949798,
+                                        ["heading"] = 438.53457195542,
                                         ["livery_id"] = "108th - High-Vis",
                                         ["name"] = "DictKey_UnitName_2890",
                                         ["onboard_num"] = "209",
@@ -12595,6 +12589,7 @@ mission =
                                 ["frequency"] = 305,
                                 ["groupId"] = 840,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["modulation"] = 0,
                                 ["name"] = "DictKey_GroupName_3441",
                                 ["radioSet"] = false,
@@ -12643,12 +12638,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -249937.88848531,
-                                            ["y"] = 167184.25189839,
+                                            ["x"] = -231769.74048513,
+                                            ["y"] = 187565.34038999,
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 161.87739957928,
+                                            ["ETA"] = 713.11532751501,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 9144,
@@ -12672,6 +12667,7 @@ mission =
                                             ["y"] = 19654.43048,
                                         }, -- end of [2]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                 }, -- end of ["route"]
                                 ["start_time"] = 0,
                                 ["task"] = "Nothing",
@@ -12689,107 +12685,6 @@ mission =
                                             ["InnerBoard"] = 0,
                                             ["OuterBoard"] = 0,
                                         }, -- end of ["AddPropAircraft"]
-                                        ["Radio"] =
-                                        {
-                                            [1] =
-                                            {
-                                                ["channels"] =
-                                                {
-                                                    [1] = 305,
-                                                    [2] = 264,
-                                                    [3] = 265,
-                                                    [4] = 256,
-                                                    [5] = 254,
-                                                    [6] = 250,
-                                                    [7] = 270,
-                                                    [8] = 257,
-                                                    [9] = 255,
-                                                    [10] = 262,
-                                                    [11] = 259,
-                                                    [12] = 268,
-                                                    [13] = 269,
-                                                    [14] = 260,
-                                                    [15] = 263,
-                                                    [16] = 261,
-                                                    [17] = 267,
-                                                    [18] = 251,
-                                                    [19] = 253,
-                                                    [20] = 266,
-                                                }, -- end of ["channels"]
-                                                ["modulations"] =
-                                                {
-                                                    [1] = 0,
-                                                    [2] = 0,
-                                                    [3] = 0,
-                                                    [4] = 0,
-                                                    [5] = 0,
-                                                    [6] = 0,
-                                                    [7] = 0,
-                                                    [8] = 0,
-                                                    [9] = 0,
-                                                    [10] = 0,
-                                                    [11] = 0,
-                                                    [12] = 0,
-                                                    [13] = 0,
-                                                    [14] = 0,
-                                                    [15] = 0,
-                                                    [16] = 0,
-                                                    [17] = 0,
-                                                    [18] = 0,
-                                                    [19] = 0,
-                                                    [20] = 0,
-                                                }, -- end of ["modulations"]
-                                            }, -- end of [1]
-                                            [2] =
-                                            {
-                                                ["channels"] =
-                                                {
-                                                    [1] = 305,
-                                                    [2] = 264,
-                                                    [3] = 265,
-                                                    [4] = 256,
-                                                    [5] = 254,
-                                                    [6] = 250,
-                                                    [7] = 270,
-                                                    [8] = 257,
-                                                    [9] = 255,
-                                                    [10] = 262,
-                                                    [11] = 259,
-                                                    [12] = 268,
-                                                    [13] = 269,
-                                                    [14] = 260,
-                                                    [15] = 263,
-                                                    [16] = 261,
-                                                    [17] = 267,
-                                                    [18] = 251,
-                                                    [19] = 253,
-                                                    [20] = 266,
-                                                }, -- end of ["channels"]
-                                                ["modulations"] =
-                                                {
-                                                    [1] = 0,
-                                                    [2] = 0,
-                                                    [3] = 0,
-                                                    [4] = 0,
-                                                    [5] = 0,
-                                                    [6] = 0,
-                                                    [7] = 0,
-                                                    [8] = 0,
-                                                    [9] = 0,
-                                                    [10] = 0,
-                                                    [11] = 0,
-                                                    [12] = 0,
-                                                    [13] = 0,
-                                                    [14] = 0,
-                                                    [15] = 0,
-                                                    [16] = 0,
-                                                    [17] = 0,
-                                                    [18] = 0,
-                                                    [19] = 0,
-                                                    [20] = 0,
-                                                }, -- end of ["modulations"]
-                                            }, -- end of [2]
-                                        }, -- end of ["Radio"]
                                         ["alt"] = 2000,
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
@@ -12833,7 +12728,7 @@ mission =
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -0.82085613194518,
+                                        ["heading"] = -0.95324439896825,
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_3442",
                                         ["onboard_num"] = "937",
@@ -12884,17 +12779,17 @@ mission =
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 0.82085613194518,
-                                        ["skill"] = "Client",
+                                        ["psi"] = 0.95324439896825,
+                                        ["skill"] = "Good",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 1833,
-                                        ["x"] = -249937.88848531,
-                                        ["y"] = 167184.25189839,
+                                        ["x"] = -231769.74048513,
+                                        ["y"] = 187565.34038999,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
-                                ["x"] = -249937.88848531,
-                                ["y"] = 167184.25189839,
+                                ["x"] = -231769.74048513,
+                                ["y"] = 187565.34038999,
                             }, -- end of [23]
                             [24] =
                             {
@@ -13150,6 +13045,269 @@ mission =
                                 ["x"] = -126315.5078125,
                                 ["y"] = -89380.320251465,
                             }, -- end of [25]
+                            [26] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 120.5,
+                                ["groupId"] = 866,
+                                ["hidden"] = false,
+                                ["lateActivation"] = true,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_3582",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 14,
+                                            ["alt"] = 30,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_3584",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "Tanker",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["name"] = "TX2",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "ActivateBeacon",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["AA"] = true,
+                                                                        ["bearing"] = true,
+                                                                        ["callsign"] = "TX2",
+                                                                        ["channel"] = 13,
+                                                                        ["frequency"] = 1100000000,
+                                                                        ["modeChannel"] = "Y",
+                                                                        ["name"] = "TX2",
+                                                                        ["system"] = 4,
+                                                                        ["type"] = 4,
+                                                                        ["unitId"] = 1862,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                        [3] =
+                                                        {
+                                                            ["auto"] = false,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 3,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "Option",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["name"] = 19,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [3]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -92869.6796875,
+                                            ["y"] = -74147.6015625,
+                                        }, -- end of [1]
+                                        [2] =
+                                        {
+                                            ["ETA"] = 122.80744311689,
+                                            ["ETA_locked"] = false,
+                                            ["action"] = "Turning Point",
+                                            ["alt"] = 2000,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_3585",
+                                            ["speed"] = 220.97222222222,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -79960.370938367,
+                                            ["y"] = -98017.422274486,
+                                        }, -- end of [2]
+                                        [3] =
+                                        {
+                                            ["ETA"] = 338.64388599296,
+                                            ["ETA_locked"] = false,
+                                            ["action"] = "Turning Point",
+                                            ["alt"] = 4572,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_3586",
+                                            ["speed"] = 220.97222222222,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -92038.026731155,
+                                            ["y"] = -51878.129243171,
+                                        }, -- end of [3]
+                                        [4] =
+                                        {
+                                            ["ETA"] = 756.96771847489,
+                                            ["ETA_locked"] = false,
+                                            ["action"] = "Turning Point",
+                                            ["alt"] = 7315.2,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_3587",
+                                            ["speed"] = 220.97222222222,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = false,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "Orbit",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["altitude"] = 7315.2,
+                                                                ["altitudeEdited"] = true,
+                                                                ["pattern"] = "Race-Track",
+                                                                ["speed"] = 280.06944444444,
+                                                                ["speedEdited"] = true,
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -107890.74451486,
+                                            ["y"] = 39190.335994747,
+                                        }, -- end of [4]
+                                        [5] =
+                                        {
+                                            ["ETA"] = 1054.1727793049,
+                                            ["ETA_locked"] = false,
+                                            ["action"] = "Turning Point",
+                                            ["alt"] = 7315.2,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_3588",
+                                            ["speed"] = 220.97222222222,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -161218.54424132,
+                                            ["y"] = 77520.849871681,
+                                        }, -- end of [5]
+                                    }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Refueling",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["alt"] = 30,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 1,
+                                            [2] = 2,
+                                            [3] = 1,
+                                            ["name"] = "Texaco21",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = -1.0750273621818,
+                                        ["livery_id"] = "Standard USAF",
+                                        ["name"] = "DictKey_UnitName_3583",
+                                        ["onboard_num"] = "013",
+                                        ["parking"] = "36",
+                                        ["parking_id"] = "14",
+                                        ["payload"] =
+                                        {
+                                            ["chaff"] = 0,
+                                            ["flare"] = 0,
+                                            ["fuel"] = 90700,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 1.0750273621818,
+                                        ["skill"] = "High",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "KC-135",
+                                        ["unitId"] = 1862,
+                                        ["x"] = -92869.6796875,
+                                        ["y"] = -74147.6015625,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -92869.6796875,
+                                ["y"] = -74147.6015625,
+                            }, -- end of [26]
                         }, -- end of ["group"]
                     }, -- end of ["plane"]
                     ["ship"] =
@@ -13242,7 +13400,7 @@ mission =
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 23008.163634049,
+                                            ["ETA"] = 23683.241197769,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 0,
@@ -13509,7 +13667,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 681,
-                                ["heading"] = 2247.1316707981,
+                                ["heading"] = 2297.3971532557,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2126",
                                 ["route"] =
@@ -13535,11 +13693,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2247.1316707981,
+                                        ["heading"] = 2297.3971532557,
                                         ["name"] = "DictKey_GroupName_2126",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2241.5417511166,
+                                            ["angle"] = 2291.8072335742,
                                             ["x"] = -80.508943406551,
                                             ["y"] = 33.671169438031,
                                         }, -- end of ["offsets"]
@@ -13556,7 +13714,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 683,
-                                ["heading"] = 2247.9869163565,
+                                ["heading"] = 2298.2523988141,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2132",
                                 ["route"] =
@@ -13582,11 +13740,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2247.9869163565,
+                                        ["heading"] = 2298.2523988141,
                                         ["name"] = "DictKey_GroupName_2132",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2242.396996675,
+                                            ["angle"] = 2292.6624791326,
                                             ["x"] = 61.685322262517,
                                             ["y"] = 34.078335540527,
                                         }, -- end of ["offsets"]
@@ -13604,7 +13762,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 684,
-                                ["heading"] = 2242.0004559294,
+                                ["heading"] = 2292.265938387,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2135",
                                 ["route"] =
@@ -13630,11 +13788,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2242.0004559294,
+                                        ["heading"] = 2292.265938387,
                                         ["name"] = "DictKey_GroupName_2135",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2236.4105362479,
+                                            ["angle"] = 2286.6760187055,
                                             ["x"] = -77.269382825011,
                                             ["y"] = 23.559264535269,
                                         }, -- end of ["offsets"]
@@ -13652,7 +13810,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 685,
-                                ["heading"] = 2240.9532583782,
+                                ["heading"] = 2291.2187408358,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2138",
                                 ["route"] =
@@ -13678,11 +13836,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2240.9532583782,
+                                        ["heading"] = 2291.2187408358,
                                         ["name"] = "DictKey_GroupName_2138",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.3633386967,
+                                            ["angle"] = 2285.6288211543,
                                             ["x"] = -76.339394486832,
                                             ["y"] = 27.01227406077,
                                         }, -- end of ["offsets"]
@@ -13700,7 +13858,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 686,
-                                ["heading"] = 2240.9532583782,
+                                ["heading"] = 2291.2187408358,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2141",
                                 ["route"] =
@@ -13726,11 +13884,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2240.9532583782,
+                                        ["heading"] = 2291.2187408358,
                                         ["name"] = "DictKey_GroupName_2141",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.3633386967,
+                                            ["angle"] = 2285.6288211543,
                                             ["x"] = -73.112344694129,
                                             ["y"] = 25.625393544759,
                                         }, -- end of ["offsets"]
@@ -13748,7 +13906,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 688,
-                                ["heading"] = 2239.1730225411,
+                                ["heading"] = 2289.4385049987,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2147",
                                 ["route"] =
@@ -13774,11 +13932,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2239.1730225411,
+                                        ["heading"] = 2289.4385049987,
                                         ["name"] = "DictKey_GroupName_2147",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2233.5831028596,
+                                            ["angle"] = 2283.8485853172,
                                             ["x"] = -129.34406003841,
                                             ["y"] = -22.007074296691,
                                         }, -- end of ["offsets"]
@@ -13797,7 +13955,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 689,
-                                ["heading"] = 2240.8834452081,
+                                ["heading"] = 2291.1489276657,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2150",
                                 ["route"] =
@@ -13823,12 +13981,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2240.8834452081,
+                                        ["heading"] = 2291.1489276657,
                                         ["livery_id"] = "brown",
                                         ["name"] = "DictKey_GroupName_2150",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.2935255266,
+                                            ["angle"] = 2285.5590079842,
                                             ["x"] = -74.591291306023,
                                             ["y"] = 22.767223174094,
                                         }, -- end of ["offsets"]
@@ -13847,7 +14005,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 690,
-                                ["heading"] = 2240.8834452081,
+                                ["heading"] = 2291.1489276657,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2153",
                                 ["route"] =
@@ -13873,12 +14031,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2240.8834452081,
+                                        ["heading"] = 2291.1489276657,
                                         ["livery_id"] = "brown",
                                         ["name"] = "DictKey_GroupName_2153",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.2935255266,
+                                            ["angle"] = 2285.5590079842,
                                             ["x"] = -74.707073824325,
                                             ["y"] = 24.359187211296,
                                         }, -- end of ["offsets"]
@@ -13897,7 +14055,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 691,
-                                ["heading"] = 2240.8834452081,
+                                ["heading"] = 2291.1489276657,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2156",
                                 ["route"] =
@@ -13923,12 +14081,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2240.8834452081,
+                                        ["heading"] = 2291.1489276657,
                                         ["livery_id"] = "brown",
                                         ["name"] = "DictKey_GroupName_2156",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.2935255266,
+                                            ["angle"] = 2285.5590079842,
                                             ["x"] = -73.281142595615,
                                             ["y"] = 22.858920002619,
                                         }, -- end of ["offsets"]
@@ -13947,7 +14105,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 692,
-                                ["heading"] = 2239.7489811943,
+                                ["heading"] = 2290.0144636519,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2159",
                                 ["route"] =
@@ -13973,11 +14131,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2239.7489811943,
+                                        ["heading"] = 2290.0144636519,
                                         ["name"] = "DictKey_GroupName_2159",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2234.1590615128,
+                                            ["angle"] = 2284.4245439704,
                                             ["x"] = 59.762984296873,
                                             ["y"] = 32.734373632786,
                                         }, -- end of ["offsets"]
@@ -13996,7 +14154,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 693,
-                                ["heading"] = 2240.8834452081,
+                                ["heading"] = 2291.1489276657,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2162",
                                 ["route"] =
@@ -14022,12 +14180,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2240.8834452081,
+                                        ["heading"] = 2291.1489276657,
                                         ["livery_id"] = "red",
                                         ["name"] = "DictKey_GroupName_2162",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.2935255266,
+                                            ["angle"] = 2285.5590079842,
                                             ["x"] = 64.646799372497,
                                             ["y"] = 34.745295633203,
                                         }, -- end of ["offsets"]
@@ -14046,7 +14204,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 694,
-                                ["heading"] = 2240.8834452081,
+                                ["heading"] = 2291.1489276657,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2165",
                                 ["route"] =
@@ -14072,12 +14230,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2240.8834452081,
+                                        ["heading"] = 2291.1489276657,
                                         ["livery_id"] = "red",
                                         ["name"] = "DictKey_GroupName_2165",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.2935255266,
+                                            ["angle"] = 2285.5590079842,
                                             ["x"] = 67.647633641628,
                                             ["y"] = 32.589108448766,
                                         }, -- end of ["offsets"]
@@ -14096,7 +14254,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 695,
-                                ["heading"] = 2242.2622553172,
+                                ["heading"] = 2292.5277377748,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2168",
                                 ["route"] =
@@ -14122,12 +14280,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Helicopters",
-                                        ["heading"] = 2242.2622553172,
+                                        ["heading"] = 2292.5277377748,
                                         ["livery_id"] = "standard",
                                         ["name"] = "DictKey_GroupName_2168",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2236.6723356357,
+                                            ["angle"] = 2286.9378180933,
                                             ["x"] = -65.431892928456,
                                             ["y"] = 19.224087430176,
                                         }, -- end of ["offsets"]
@@ -14145,7 +14303,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 696,
-                                ["heading"] = 2240.813632038,
+                                ["heading"] = 2291.0791144956,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2171",
                                 ["route"] =
@@ -14171,12 +14329,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Helicopters",
-                                        ["heading"] = 2240.813632038,
+                                        ["heading"] = 2291.0791144956,
                                         ["livery_id"] = "standard",
                                         ["name"] = "DictKey_GroupName_2171",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.2237123565,
+                                            ["angle"] = 2285.4891948141,
                                             ["x"] = -58.898943869643,
                                             ["y"] = 16.562613195522,
                                         }, -- end of ["offsets"]
@@ -14194,7 +14352,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 697,
-                                ["heading"] = 2241.9131894668,
+                                ["heading"] = 2292.1786719244,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2174",
                                 ["route"] =
@@ -14220,12 +14378,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Planes",
-                                        ["heading"] = 2241.9131894668,
+                                        ["heading"] = 2292.1786719244,
                                         ["livery_id"] = "e-2d demo",
                                         ["name"] = "DictKey_GroupName_2174",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2236.3232697853,
+                                            ["angle"] = 2286.5887522429,
                                             ["x"] = -46.515184809672,
                                             ["y"] = 14.904282881366,
                                         }, -- end of ["offsets"]
@@ -14243,7 +14401,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 698,
-                                ["heading"] = 2237.4451465816,
+                                ["heading"] = 2287.7106290392,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2177",
                                 ["route"] =
@@ -14269,12 +14427,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2237.4451465816,
+                                        ["heading"] = 2287.7106290392,
                                         ["livery_id"] = "purple",
                                         ["name"] = "DictKey_GroupName_2177",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2231.8552269001,
+                                            ["angle"] = 2282.1207093577,
                                             ["x"] = -65.637941990774,
                                             ["y"] = 16.925770646237,
                                         }, -- end of ["offsets"]
@@ -14293,7 +14451,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 699,
-                                ["heading"] = 2239.3301021738,
+                                ["heading"] = 2289.5955846314,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2180",
                                 ["route"] =
@@ -14319,11 +14477,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2239.3301021738,
+                                        ["heading"] = 2289.5955846314,
                                         ["name"] = "DictKey_GroupName_2180",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2233.7401824923,
+                                            ["angle"] = 2284.0056649499,
                                             ["x"] = -56.900022208384,
                                             ["y"] = 13.580712171163,
                                         }, -- end of ["offsets"]
@@ -14342,7 +14500,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 700,
-                                ["heading"] = 2241.4594038612,
+                                ["heading"] = 2291.7248863188,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2183",
                                 ["route"] =
@@ -14368,11 +14526,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2241.4594038612,
+                                        ["heading"] = 2291.7248863188,
                                         ["name"] = "DictKey_GroupName_2183",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2235.8694841797,
+                                            ["angle"] = 2286.1349666373,
                                             ["x"] = 61.53141861825,
                                             ["y"] = 31.6186281259,
                                         }, -- end of ["offsets"]
@@ -14391,7 +14549,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 701,
-                                ["heading"] = 2237.5324130442,
+                                ["heading"] = 2287.7978955018,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2186",
                                 ["route"] =
@@ -14417,12 +14575,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2237.5324130442,
+                                        ["heading"] = 2287.7978955018,
                                         ["livery_id"] = "blue",
                                         ["name"] = "DictKey_GroupName_2186",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2231.9424933627,
+                                            ["angle"] = 2282.2079758203,
                                             ["x"] = -41.361000214768,
                                             ["y"] = 10.130950814211,
                                         }, -- end of ["offsets"]
@@ -14441,7 +14599,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 702,
-                                ["heading"] = 2239.1730225411,
+                                ["heading"] = 2289.4385049987,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2189",
                                 ["route"] =
@@ -14467,11 +14625,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2239.1730225411,
+                                        ["heading"] = 2289.4385049987,
                                         ["name"] = "DictKey_GroupName_2189",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2233.5831028596,
+                                            ["angle"] = 2283.8485853172,
                                             ["x"] = -128.98017138655,
                                             ["y"] = -20.333561137179,
                                         }, -- end of ["offsets"]
@@ -18158,7 +18316,7 @@ mission =
                                         {
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
-                                            ["action"] = "From Parking Area",
+                                            ["action"] = "From Runway",
                                             ["airdromeId"] = 21,
                                             ["alt"] = 8,
                                             ["alt_type"] = "BARO",
@@ -18203,9 +18361,9 @@ mission =
                                                     }, -- end of ["tasks"]
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
-                                            ["type"] = "TakeOffParking",
-                                            ["x"] = -57655.1328125,
-                                            ["y"] = 154757.625,
+                                            ["type"] = "TakeOff",
+                                            ["x"] = -57247.5,
+                                            ["y"] = 156196.507813,
                                         }, -- end of [1]
                                         [2] =
                                         {
@@ -18319,12 +18477,10 @@ mission =
                                             ["name"] = "Uzi11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -2.1382020987758,
+                                        ["heading"] = -2.1174120562777,
                                         ["livery_id"] = "IRIAF - Standard",
                                         ["name"] = "DictKey_UnitName_2410",
                                         ["onboard_num"] = "010",
-                                        ["parking"] = "4",
-                                        ["parking_id"] = "03",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -18360,13 +18516,13 @@ mission =
                                                 }, -- end of [6]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 2.1382020987758,
+                                        ["psi"] = 2.1174120562777,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-21Bis",
                                         ["unitId"] = 1378,
-                                        ["x"] = -57655.1328125,
-                                        ["y"] = 154757.625,
+                                        ["x"] = -57247.5,
+                                        ["y"] = 156196.507813,
                                     }, -- end of [1]
                                     [2] =
                                     {
@@ -18379,12 +18535,10 @@ mission =
                                             [3] = 2,
                                             ["name"] = "Uzi12",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -2.1382020987758,
+                                        ["heading"] = -2.1174120562777,
                                         ["livery_id"] = "IRIAF - Standard",
                                         ["name"] = "DictKey_UnitName_2415",
                                         ["onboard_num"] = "931",
-                                        ["parking"] = "2",
-                                        ["parking_id"] = "02",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -18420,17 +18574,17 @@ mission =
                                                 }, -- end of [6]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 2.1382020987758,
+                                        ["psi"] = 2.1174120562777,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-21Bis",
                                         ["unitId"] = 1379,
-                                        ["x"] = -57597.375,
-                                        ["y"] = 154792.71875,
+                                        ["x"] = -57247.5,
+                                        ["y"] = 156196.507813,
                                     }, -- end of [2]
                                 }, -- end of ["units"]
-                                ["x"] = -57655.1328125,
-                                ["y"] = 154757.625,
+                                ["x"] = -57247.5,
+                                ["y"] = 156196.507813,
                             }, -- end of [7]
                             [8] =
                             {
@@ -34132,6 +34286,7 @@ mission =
                             {
                                 ["groupId"] = 620,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1367",
                                 ["route"] =
                                 {
@@ -34163,6 +34318,7 @@ mission =
                                             ["y"] = -155048.55049272,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -34200,6 +34356,7 @@ mission =
                             {
                                 ["groupId"] = 622,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1374",
                                 ["route"] =
                                 {
@@ -34231,6 +34388,7 @@ mission =
                                             ["y"] = -358823.12817274,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -34268,6 +34426,7 @@ mission =
                             {
                                 ["groupId"] = 625,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1384",
                                 ["route"] =
                                 {
@@ -34299,6 +34458,7 @@ mission =
                                             ["y"] = -36357.180716516,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -34336,6 +34496,7 @@ mission =
                             {
                                 ["groupId"] = 634,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1474",
                                 ["route"] =
                                 {
@@ -34367,6 +34528,7 @@ mission =
                                             ["y"] = -144486.26311595,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -34532,7 +34694,7 @@ mission =
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 2,
+                                            ["alt"] = 6,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_1914",
@@ -34703,6 +34865,7 @@ mission =
                             {
                                 ["groupId"] = 711,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_2262",
                                 ["route"] =
                                 {
@@ -34734,6 +34897,7 @@ mission =
                                             ["y"] = -384985.35011952,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -34771,6 +34935,7 @@ mission =
                             {
                                 ["groupId"] = 712,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_2265",
                                 ["route"] =
                                 {
@@ -34802,6 +34967,7 @@ mission =
                                             ["y"] = -257379.93884466,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -34839,6 +35005,7 @@ mission =
                             {
                                 ["groupId"] = 715,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_2276",
                                 ["route"] =
                                 {
@@ -34870,6 +35037,7 @@ mission =
                                             ["y"] = 104607.66796074,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -38404,6 +38572,7 @@ mission =
                             {
                                 ["groupId"] = 831,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_3355",
                                 ["route"] =
                                 {
@@ -38435,6 +38604,7 @@ mission =
                                             ["y"] = -495732.97270287,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                         [1] =
@@ -39075,7 +39245,7 @@ mission =
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 1096.0759122497,
+                                            ["ETA"] = 1095.6220785201,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 6400.8,
@@ -39095,8 +39265,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 332263.62414143,
-                                            ["y"] = -266651.79169247,
+                                            ["x"] = 332542.96446946,
+                                            ["y"] = -267012.303082,
                                         }, -- end of [3]
                                         [4] =
                                         {
@@ -40683,6 +40853,7 @@ mission =
                             {
                                 ["groupId"] = 621,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1370",
                                 ["route"] =
                                 {
@@ -40752,6 +40923,7 @@ mission =
                                             ["y"] = -154980.12074124,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -40804,6 +40976,7 @@ mission =
                             {
                                 ["groupId"] = 624,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1380",
                                 ["route"] =
                                 {
@@ -40873,6 +41046,7 @@ mission =
                                             ["y"] = -358528.66222774,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -40925,6 +41099,7 @@ mission =
                             {
                                 ["groupId"] = 626,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1387",
                                 ["route"] =
                                 {
@@ -40994,6 +41169,7 @@ mission =
                                             ["y"] = -35542.014374699,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -41773,6 +41949,7 @@ mission =
                             {
                                 ["groupId"] = 641,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1612",
                                 ["route"] =
                                 {
@@ -41804,6 +41981,7 @@ mission =
                                             ["y"] = 88089.774080153,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -42349,6 +42527,7 @@ mission =
                             {
                                 ["groupId"] = 643,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1665",
                                 ["route"] =
                                 {
@@ -42380,6 +42559,7 @@ mission =
                                             ["y"] = 87901.919767556,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -43132,6 +43312,7 @@ mission =
                             {
                                 ["groupId"] = 650,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1819",
                                 ["route"] =
                                 {
@@ -43163,6 +43344,7 @@ mission =
                                             ["y"] = -353687.76659755,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -43733,6 +43915,7 @@ mission =
                             {
                                 ["groupId"] = 654,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1881",
                                 ["route"] =
                                 {
@@ -43764,6 +43947,7 @@ mission =
                                             ["y"] = -285742.46201835,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -43949,6 +44133,7 @@ mission =
                             {
                                 ["groupId"] = 655,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1894",
                                 ["route"] =
                                 {
@@ -43980,6 +44165,7 @@ mission =
                                             ["y"] = -225445.61140936,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -44165,6 +44351,7 @@ mission =
                             {
                                 ["groupId"] = 657,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1915",
                                 ["route"] =
                                 {
@@ -44196,6 +44383,7 @@ mission =
                                             ["y"] = -171503.89560446,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -44381,6 +44569,7 @@ mission =
                             {
                                 ["groupId"] = 659,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1941",
                                 ["route"] =
                                 {
@@ -44412,6 +44601,7 @@ mission =
                                             ["y"] = -32724.014023279,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -44597,6 +44787,7 @@ mission =
                             {
                                 ["groupId"] = 660,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_1954",
                                 ["route"] =
                                 {
@@ -44628,6 +44819,7 @@ mission =
                                             ["y"] = -89848.593815367,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -45224,6 +45416,7 @@ mission =
                             {
                                 ["groupId"] = 680,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_2110",
                                 ["route"] =
                                 {
@@ -45255,6 +45448,7 @@ mission =
                                             ["y"] = 88028.90934699,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -45485,6 +45679,7 @@ mission =
                             {
                                 ["groupId"] = 713,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_2268",
                                 ["route"] =
                                 {
@@ -45554,6 +45749,7 @@ mission =
                                             ["y"] = -257063.49391493,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -45606,6 +45802,7 @@ mission =
                             {
                                 ["groupId"] = 714,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["name"] = "DictKey_GroupName_2272",
                                 ["route"] =
                                 {
@@ -45675,6 +45872,7 @@ mission =
                                             ["y"] = -384925.15850958,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -45841,7 +46039,7 @@ mission =
             [18] = 7,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 1225347,
+    ["currentKey"] = 1249460,
     ["date"] =
     {
         ["Day"] = 2,
@@ -53194,11 +53392,11 @@ mission =
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -101887.17703352,
-        ["centerY"] = 108515.48211091,
-        ["zoom"] = 1205339.8066314,
+        ["centerX"] = 64748.899750786,
+        ["centerY"] = 107976.03155388,
+        ["zoom"] = 954027.17897639,
     }, -- end of ["map"]
-    ["maxDictId"] = 3581,
+    ["maxDictId"] = 3591,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -53263,7 +53461,7 @@ mission =
             [2] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_1977\"));",
             [3] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_3449\"));",
             [4] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_2369\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2370\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2371\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2372\"));a_add_radio_item_for_coalition(\"blue\", getValueDictByKey(\"DictKey_ActionRadioText_3453\"), 1, 2);a_do_script_file(getValueResourceByKey(\"ResKey_Action_3470\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3537\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3581\")); mission.trig.func[4]=nil;",
-            [5] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_3457\"));a_activate_group(730);a_activate_group(137);a_activate_group(138);a_activate_group(804);a_do_script_file(getValueResourceByKey(\"ResKey_Action_3469\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3471\")); mission.trig.func[5]=nil;",
+            [5] = "a_activate_group(730);a_activate_group(137);a_activate_group(138);a_activate_group(804);a_do_script_file(getValueResourceByKey(\"ResKey_Action_3471\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3589\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3591\")); mission.trig.func[5]=nil;",
             [6] = "a_remove_radio_item_for_coalition(\"blue\", getValueDictByKey(\"DictKey_ActionRadioText_3455\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3462\")); mission.trig.func[6]=nil;",
         }, -- end of ["actions"]
         ["conditions"] =
@@ -53554,49 +53752,49 @@ mission =
             {
                 [1] =
                 {
-                    ["file"] = "ResKey_Action_3457",
+                    ["group"] = 730,
                     ["meters"] = 1000,
-                    ["predicate"] = "a_do_script_file",
+                    ["predicate"] = "a_activate_group",
                     ["zone"] = 210,
                 }, -- end of [1]
                 [2] =
                 {
-                    ["group"] = 730,
+                    ["group"] = 137,
                     ["meters"] = 1000,
                     ["predicate"] = "a_activate_group",
                     ["zone"] = 210,
                 }, -- end of [2]
                 [3] =
                 {
-                    ["group"] = 137,
+                    ["group"] = 138,
                     ["meters"] = 1000,
                     ["predicate"] = "a_activate_group",
                     ["zone"] = 210,
                 }, -- end of [3]
                 [4] =
                 {
-                    ["group"] = 138,
+                    ["group"] = 804,
                     ["meters"] = 1000,
                     ["predicate"] = "a_activate_group",
                     ["zone"] = 210,
                 }, -- end of [4]
                 [5] =
                 {
-                    ["group"] = 804,
+                    ["file"] = "ResKey_Action_3471",
                     ["meters"] = 1000,
-                    ["predicate"] = "a_activate_group",
+                    ["predicate"] = "a_do_script_file",
                     ["zone"] = 210,
                 }, -- end of [5]
                 [6] =
                 {
-                    ["file"] = "ResKey_Action_3469",
+                    ["file"] = "ResKey_Action_3589",
                     ["meters"] = 1000,
                     ["predicate"] = "a_do_script_file",
                     ["zone"] = 210,
                 }, -- end of [6]
                 [7] =
                 {
-                    ["file"] = "ResKey_Action_3471",
+                    ["file"] = "ResKey_Action_3591",
                     ["meters"] = 1000,
                     ["predicate"] = "a_do_script_file",
                     ["zone"] = 210,
