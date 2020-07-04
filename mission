@@ -2844,7 +2844,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1689.0945235037,
+                                        ["heading"] = 1751.9263765757,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2814",
                                         ["onboard_num"] = "301",
@@ -3634,7 +3634,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1689.0945235037,
+                                        ["heading"] = 1751.9263765757,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2820",
                                         ["onboard_num"] = "305",
@@ -4424,7 +4424,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1689.0945235037,
+                                        ["heading"] = 1751.9263765757,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2829",
                                         ["onboard_num"] = "309",
@@ -5214,7 +5214,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1689.0945235037,
+                                        ["heading"] = 1751.9263765757,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2838",
                                         ["onboard_num"] = "317",
@@ -6004,7 +6004,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1689.0945235037,
+                                        ["heading"] = 1751.9263765757,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2850",
                                         ["onboard_num"] = "313",
@@ -6794,7 +6794,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
-                                        ["heading"] = 1689.0945235037,
+                                        ["heading"] = 1751.9263765757,
                                         ["livery_id"] = "132_494_LoVis",
                                         ["name"] = "DictKey_UnitName_2859",
                                         ["onboard_num"] = "321",
@@ -7542,7 +7542,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 438.53457195542,
+                                        ["heading"] = 501.36642502722,
                                         ["livery_id"] = "108th - High-Vis",
                                         ["name"] = "DictKey_UnitName_2868",
                                         ["onboard_num"] = "201",
@@ -8221,7 +8221,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Springfield21",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 438.53457195542,
+                                        ["heading"] = 501.36642502722,
                                         ["livery_id"] = "108th - High-Vis",
                                         ["name"] = "DictKey_UnitName_2881",
                                         ["onboard_num"] = "205",
@@ -8900,7 +8900,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Springfield31",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 438.53457195542,
+                                        ["heading"] = 501.36642502722,
                                         ["livery_id"] = "108th - High-Vis",
                                         ["name"] = "DictKey_UnitName_2890",
                                         ["onboard_num"] = "209",
@@ -12638,8 +12638,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -231769.74048513,
-                                            ["y"] = 187565.34038999,
+                                            ["x"] = -198678.667527,
+                                            ["y"] = 276321.71925745,
                                         }, -- end of [1]
                                         [2] =
                                         {
@@ -12728,7 +12728,7 @@ mission =
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -0.95324439896825,
+                                        ["heading"] = -1.2469195622115,
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_3442",
                                         ["onboard_num"] = "937",
@@ -12779,17 +12779,17 @@ mission =
                                                 }, -- end of [9]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 0.95324439896825,
-                                        ["skill"] = "Good",
+                                        ["psi"] = 1.2469195622115,
+                                        ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 1833,
-                                        ["x"] = -231769.74048513,
-                                        ["y"] = 187565.34038999,
+                                        ["x"] = -198678.667527,
+                                        ["y"] = 276321.71925745,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
-                                ["x"] = -231769.74048513,
-                                ["y"] = 187565.34038999,
+                                ["x"] = -198678.667527,
+                                ["y"] = 276321.71925745,
                             }, -- end of [23]
                             [24] =
                             {
@@ -13667,7 +13667,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 681,
-                                ["heading"] = 2297.3971532557,
+                                ["heading"] = 2360.2290063277,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2126",
                                 ["route"] =
@@ -13693,11 +13693,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2297.3971532557,
+                                        ["heading"] = 2360.2290063277,
                                         ["name"] = "DictKey_GroupName_2126",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2291.8072335742,
+                                            ["angle"] = 2354.6390866462,
                                             ["x"] = -80.508943406551,
                                             ["y"] = 33.671169438031,
                                         }, -- end of ["offsets"]
@@ -13714,7 +13714,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 683,
-                                ["heading"] = 2298.2523988141,
+                                ["heading"] = 2361.0842518861,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2132",
                                 ["route"] =
@@ -13740,11 +13740,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2298.2523988141,
+                                        ["heading"] = 2361.0842518861,
                                         ["name"] = "DictKey_GroupName_2132",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2292.6624791326,
+                                            ["angle"] = 2355.4943322046,
                                             ["x"] = 61.685322262517,
                                             ["y"] = 34.078335540527,
                                         }, -- end of ["offsets"]
@@ -13762,7 +13762,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 684,
-                                ["heading"] = 2292.265938387,
+                                ["heading"] = 2355.097791459,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2135",
                                 ["route"] =
@@ -13788,11 +13788,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2292.265938387,
+                                        ["heading"] = 2355.097791459,
                                         ["name"] = "DictKey_GroupName_2135",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2286.6760187055,
+                                            ["angle"] = 2349.5078717775,
                                             ["x"] = -77.269382825011,
                                             ["y"] = 23.559264535269,
                                         }, -- end of ["offsets"]
@@ -13810,7 +13810,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 685,
-                                ["heading"] = 2291.2187408358,
+                                ["heading"] = 2354.0505939078,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2138",
                                 ["route"] =
@@ -13836,11 +13836,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2291.2187408358,
+                                        ["heading"] = 2354.0505939078,
                                         ["name"] = "DictKey_GroupName_2138",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2285.6288211543,
+                                            ["angle"] = 2348.4606742263,
                                             ["x"] = -76.339394486832,
                                             ["y"] = 27.01227406077,
                                         }, -- end of ["offsets"]
@@ -13858,7 +13858,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 686,
-                                ["heading"] = 2291.2187408358,
+                                ["heading"] = 2354.0505939078,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2141",
                                 ["route"] =
@@ -13884,11 +13884,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "ADEquipment",
-                                        ["heading"] = 2291.2187408358,
+                                        ["heading"] = 2354.0505939078,
                                         ["name"] = "DictKey_GroupName_2141",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2285.6288211543,
+                                            ["angle"] = 2348.4606742263,
                                             ["x"] = -73.112344694129,
                                             ["y"] = 25.625393544759,
                                         }, -- end of ["offsets"]
@@ -13906,7 +13906,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 688,
-                                ["heading"] = 2289.4385049987,
+                                ["heading"] = 2352.2703580707,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2147",
                                 ["route"] =
@@ -13932,11 +13932,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2289.4385049987,
+                                        ["heading"] = 2352.2703580707,
                                         ["name"] = "DictKey_GroupName_2147",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2283.8485853172,
+                                            ["angle"] = 2346.6804383892,
                                             ["x"] = -129.34406003841,
                                             ["y"] = -22.007074296691,
                                         }, -- end of ["offsets"]
@@ -13955,7 +13955,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 689,
-                                ["heading"] = 2291.1489276657,
+                                ["heading"] = 2353.9807807377,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2150",
                                 ["route"] =
@@ -13981,12 +13981,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2291.1489276657,
+                                        ["heading"] = 2353.9807807377,
                                         ["livery_id"] = "brown",
                                         ["name"] = "DictKey_GroupName_2150",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2285.5590079842,
+                                            ["angle"] = 2348.3908610562,
                                             ["x"] = -74.591291306023,
                                             ["y"] = 22.767223174094,
                                         }, -- end of ["offsets"]
@@ -14005,7 +14005,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 690,
-                                ["heading"] = 2291.1489276657,
+                                ["heading"] = 2353.9807807377,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2153",
                                 ["route"] =
@@ -14031,12 +14031,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2291.1489276657,
+                                        ["heading"] = 2353.9807807377,
                                         ["livery_id"] = "brown",
                                         ["name"] = "DictKey_GroupName_2153",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2285.5590079842,
+                                            ["angle"] = 2348.3908610562,
                                             ["x"] = -74.707073824325,
                                             ["y"] = 24.359187211296,
                                         }, -- end of ["offsets"]
@@ -14055,7 +14055,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 691,
-                                ["heading"] = 2291.1489276657,
+                                ["heading"] = 2353.9807807377,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2156",
                                 ["route"] =
@@ -14081,12 +14081,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2291.1489276657,
+                                        ["heading"] = 2353.9807807377,
                                         ["livery_id"] = "brown",
                                         ["name"] = "DictKey_GroupName_2156",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2285.5590079842,
+                                            ["angle"] = 2348.3908610562,
                                             ["x"] = -73.281142595615,
                                             ["y"] = 22.858920002619,
                                         }, -- end of ["offsets"]
@@ -14105,7 +14105,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 692,
-                                ["heading"] = 2290.0144636519,
+                                ["heading"] = 2352.8463167239,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2159",
                                 ["route"] =
@@ -14131,11 +14131,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2290.0144636519,
+                                        ["heading"] = 2352.8463167239,
                                         ["name"] = "DictKey_GroupName_2159",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2284.4245439704,
+                                            ["angle"] = 2347.2563970424,
                                             ["x"] = 59.762984296873,
                                             ["y"] = 32.734373632786,
                                         }, -- end of ["offsets"]
@@ -14154,7 +14154,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 693,
-                                ["heading"] = 2291.1489276657,
+                                ["heading"] = 2353.9807807377,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2162",
                                 ["route"] =
@@ -14180,12 +14180,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2291.1489276657,
+                                        ["heading"] = 2353.9807807377,
                                         ["livery_id"] = "red",
                                         ["name"] = "DictKey_GroupName_2162",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2285.5590079842,
+                                            ["angle"] = 2348.3908610562,
                                             ["x"] = 64.646799372497,
                                             ["y"] = 34.745295633203,
                                         }, -- end of ["offsets"]
@@ -14204,7 +14204,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 694,
-                                ["heading"] = 2291.1489276657,
+                                ["heading"] = 2353.9807807377,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2165",
                                 ["route"] =
@@ -14230,12 +14230,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2291.1489276657,
+                                        ["heading"] = 2353.9807807377,
                                         ["livery_id"] = "red",
                                         ["name"] = "DictKey_GroupName_2165",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2285.5590079842,
+                                            ["angle"] = 2348.3908610562,
                                             ["x"] = 67.647633641628,
                                             ["y"] = 32.589108448766,
                                         }, -- end of ["offsets"]
@@ -14254,7 +14254,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 695,
-                                ["heading"] = 2292.5277377748,
+                                ["heading"] = 2355.3595908468,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2168",
                                 ["route"] =
@@ -14280,12 +14280,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Helicopters",
-                                        ["heading"] = 2292.5277377748,
+                                        ["heading"] = 2355.3595908468,
                                         ["livery_id"] = "standard",
                                         ["name"] = "DictKey_GroupName_2168",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2286.9378180933,
+                                            ["angle"] = 2349.7696711653,
                                             ["x"] = -65.431892928456,
                                             ["y"] = 19.224087430176,
                                         }, -- end of ["offsets"]
@@ -14303,7 +14303,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 696,
-                                ["heading"] = 2291.0791144956,
+                                ["heading"] = 2353.9109675676,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2171",
                                 ["route"] =
@@ -14329,12 +14329,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Helicopters",
-                                        ["heading"] = 2291.0791144956,
+                                        ["heading"] = 2353.9109675676,
                                         ["livery_id"] = "standard",
                                         ["name"] = "DictKey_GroupName_2171",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2285.4891948141,
+                                            ["angle"] = 2348.3210478861,
                                             ["x"] = -58.898943869643,
                                             ["y"] = 16.562613195522,
                                         }, -- end of ["offsets"]
@@ -14352,7 +14352,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 697,
-                                ["heading"] = 2292.1786719244,
+                                ["heading"] = 2355.0105249964,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2174",
                                 ["route"] =
@@ -14378,12 +14378,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Planes",
-                                        ["heading"] = 2292.1786719244,
+                                        ["heading"] = 2355.0105249964,
                                         ["livery_id"] = "e-2d demo",
                                         ["name"] = "DictKey_GroupName_2174",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2286.5887522429,
+                                            ["angle"] = 2349.4206053149,
                                             ["x"] = -46.515184809672,
                                             ["y"] = 14.904282881366,
                                         }, -- end of ["offsets"]
@@ -14401,7 +14401,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 698,
-                                ["heading"] = 2287.7106290392,
+                                ["heading"] = 2350.5424821112,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2177",
                                 ["route"] =
@@ -14427,12 +14427,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2287.7106290392,
+                                        ["heading"] = 2350.5424821112,
                                         ["livery_id"] = "purple",
                                         ["name"] = "DictKey_GroupName_2177",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2282.1207093577,
+                                            ["angle"] = 2344.9525624297,
                                             ["x"] = -65.637941990774,
                                             ["y"] = 16.925770646237,
                                         }, -- end of ["offsets"]
@@ -14451,7 +14451,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 699,
-                                ["heading"] = 2289.5955846314,
+                                ["heading"] = 2352.4274377034,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2180",
                                 ["route"] =
@@ -14477,11 +14477,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2289.5955846314,
+                                        ["heading"] = 2352.4274377034,
                                         ["name"] = "DictKey_GroupName_2180",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2284.0056649499,
+                                            ["angle"] = 2346.8375180219,
                                             ["x"] = -56.900022208384,
                                             ["y"] = 13.580712171163,
                                         }, -- end of ["offsets"]
@@ -14500,7 +14500,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 700,
-                                ["heading"] = 2291.7248863188,
+                                ["heading"] = 2354.5567393908,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2183",
                                 ["route"] =
@@ -14526,11 +14526,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2291.7248863188,
+                                        ["heading"] = 2354.5567393908,
                                         ["name"] = "DictKey_GroupName_2183",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2286.1349666373,
+                                            ["angle"] = 2348.9668197093,
                                             ["x"] = 61.53141861825,
                                             ["y"] = 31.6186281259,
                                         }, -- end of ["offsets"]
@@ -14549,7 +14549,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 701,
-                                ["heading"] = 2287.7978955018,
+                                ["heading"] = 2350.6297485738,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2186",
                                 ["route"] =
@@ -14575,12 +14575,12 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2287.7978955018,
+                                        ["heading"] = 2350.6297485738,
                                         ["livery_id"] = "blue",
                                         ["name"] = "DictKey_GroupName_2186",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2282.2079758203,
+                                            ["angle"] = 2345.0398288923,
                                             ["x"] = -41.361000214768,
                                             ["y"] = 10.130950814211,
                                         }, -- end of ["offsets"]
@@ -14599,7 +14599,7 @@ mission =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 702,
-                                ["heading"] = 2289.4385049987,
+                                ["heading"] = 2352.2703580707,
                                 ["linkOffset"] = true,
                                 ["name"] = "DictKey_GroupName_2189",
                                 ["route"] =
@@ -14625,11 +14625,11 @@ mission =
                                     [1] =
                                     {
                                         ["category"] = "Personnel",
-                                        ["heading"] = 2289.4385049987,
+                                        ["heading"] = 2352.2703580707,
                                         ["name"] = "DictKey_GroupName_2189",
                                         ["offsets"] =
                                         {
-                                            ["angle"] = 2283.8485853172,
+                                            ["angle"] = 2346.6804383892,
                                             ["x"] = -128.98017138655,
                                             ["y"] = -20.333561137179,
                                         }, -- end of ["offsets"]
@@ -46039,7 +46039,7 @@ mission =
             [18] = 7,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 1249460,
+    ["currentKey"] = 1282522,
     ["date"] =
     {
         ["Day"] = 2,
@@ -53392,11 +53392,11 @@ mission =
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 64748.899750786,
-        ["centerY"] = 107976.03155388,
-        ["zoom"] = 954027.17897639,
+        ["centerX"] = -147500.07932951,
+        ["centerY"] = 145762.31148025,
+        ["zoom"] = 1266824.0222366,
     }, -- end of ["map"]
-    ["maxDictId"] = 3591,
+    ["maxDictId"] = 3593,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -53460,7 +53460,7 @@ mission =
             [1] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_3452\"));",
             [2] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_1977\"));",
             [3] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_3449\"));",
-            [4] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_2369\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2370\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2371\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2372\"));a_add_radio_item_for_coalition(\"blue\", getValueDictByKey(\"DictKey_ActionRadioText_3453\"), 1, 2);a_do_script_file(getValueResourceByKey(\"ResKey_Action_3470\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3537\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3581\")); mission.trig.func[4]=nil;",
+            [4] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_2369\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2370\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2371\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_2372\"));a_add_radio_item_for_coalition(\"blue\", getValueDictByKey(\"DictKey_ActionRadioText_3453\"), 1, 2);a_do_script_file(getValueResourceByKey(\"ResKey_Action_3470\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3537\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3581\"));a_radio_transmission(getValueResourceByKey(\"ResKey_Action_3593\"), 517, true, true, 280600, 100, \"CVN73 ATIS\", 0); mission.trig.func[4]=nil;",
             [5] = "a_activate_group(730);a_activate_group(137);a_activate_group(138);a_activate_group(804);a_do_script_file(getValueResourceByKey(\"ResKey_Action_3471\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3589\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3591\")); mission.trig.func[5]=nil;",
             [6] = "a_remove_radio_item_for_coalition(\"blue\", getValueDictByKey(\"DictKey_ActionRadioText_3455\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_3462\")); mission.trig.func[6]=nil;",
         }, -- end of ["actions"]
@@ -53603,6 +53603,25 @@ mission =
                 ["y"] = 57441.980171407,
                 ["zoneId"] = 415,
             }, -- end of [5]
+            [6] =
+            {
+                ["color"] =
+                {
+                    [1] = 1,
+                    [2] = 1,
+                    [3] = 1,
+                    [4] = 0.15,
+                }, -- end of ["color"]
+                ["hidden"] = false,
+                ["name"] = "Carrier ATIS",
+                ["properties"] =
+                {
+                }, -- end of ["properties"]
+                ["radius"] = 2438.4,
+                ["x"] = -226379.72911247,
+                ["y"] = 146174.57689774,
+                ["zoneId"] = 517,
+            }, -- end of [6]
         }, -- end of ["zones"]
     }, -- end of ["triggers"]
     ["trigrules"] =
@@ -53731,6 +53750,19 @@ mission =
                     ["predicate"] = "a_do_script_file",
                     ["zone"] = 210,
                 }, -- end of [8]
+                [9] =
+                {
+                    ["file"] = "ResKey_Action_3593",
+                    ["frequency"] = 280.6,
+                    ["loop"] = true,
+                    ["meters"] = 1000,
+                    ["modulation"] = true,
+                    ["name"] = "CVN73 ATIS",
+                    ["power"] = 100,
+                    ["predicate"] = "a_radio_transmission",
+                    ["start_delay"] = 0,
+                    ["zone"] = 517,
+                }, -- end of [9]
             }, -- end of ["actions"]
             ["colorItem"] = "0x80ffffff",
             ["comment"] = "Early Scripts ",
