@@ -1,8 +1,12 @@
 dictionary = 
 {
+    ["DictKey_ActionComment_3595"] = "DictKey_ActionComment_3595",
     ["DictKey_ActionRadioText_3453"] = "Launch CVN-73 Tanker",
     ["DictKey_ActionRadioText_3455"] = "Launch CVN-73 Tanker",
+    ["DictKey_ActionRadioText_3599"] = "Restart CVN-73 TACAN ",
     ["DictKey_ActionText_3576"] = "",
+    ["DictKey_ActionText_3594"] = "",
+    ["DictKey_ActionText_3596"] = "CVN-73 TACAN & ICLS Reset ",
     ["DictKey_GroupName_6"] = "CVN 73 Group",
     ["DictKey_GroupName_14"] = "STN Static Hornet 1",
     ["DictKey_GroupName_17"] = "STN Static Hornet 2",
@@ -3448,6 +3452,10 @@ dictionary =
     ["DictKey_descriptionBlueTask_3"] = "",
     ["DictKey_descriptionNeutralsTask_4"] = "",
     ["DictKey_descriptionRedTask_2"] = "",
-    ["DictKey_descriptionText_1"] = "",
-    ["DictKey_sortie_5"] = "",
+    ["DictKey_descriptionText_1"] = "OPBH DAY 1 NIGHT 1\
+\
+Strike at Bandar E Jask\
+\
+",
+    ["DictKey_sortie_5"] = "OPBH Day 1 Night 1",
 } -- end of dictionary

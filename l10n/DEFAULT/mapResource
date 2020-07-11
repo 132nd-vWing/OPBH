@@ -14,5 +14,7 @@ mapResource =
     ["ResKey_Action_3581"] = "ATIS.lua",
     ["ResKey_Action_3589"] = "OPBH_tankers.lua",
     ["ResKey_Action_3591"] = "A2A Dispatcher.lua",
-    ["ResKey_Action_3593"] = "mission 1 cvn73 atis.ogg",
+    ["ResKey_Action_3593"] = "mission 1 cvn73 atis v2.ogg",
+    ["ResKey_Action_3598"] = "radiobeep.ogg",
+    ["ResKey_ImageBriefing_3600"] = "132ndLogo.png",
 } -- end of mapResource
