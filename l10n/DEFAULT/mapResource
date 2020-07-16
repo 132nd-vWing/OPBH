@@ -1,11 +1,9 @@
 mapResource = 
 {
     ["ResKey_Action_1977"] = "mist_4_3_74.lua",
-    ["ResKey_Action_2369"] = "PAC-1 Skynet.lua",
     ["ResKey_Action_2370"] = "PAC-2 Skynet.lua",
     ["ResKey_Action_2371"] = "PAC-3 Skynet.lua",
     ["ResKey_Action_2372"] = "PAC-4 Skynet.lua",
-    ["ResKey_Action_3449"] = "skynet-iads-compiled.lua",
     ["ResKey_Action_3452"] = "Moose.lua",
     ["ResKey_Action_3462"] = "CVN TKR.lua",
     ["ResKey_Action_3470"] = "OPBH_RAT2.lua",
@@ -16,5 +14,7 @@ mapResource =
     ["ResKey_Action_3591"] = "A2A Dispatcher.lua",
     ["ResKey_Action_3593"] = "mission 1 cvn73 atis v2.ogg",
     ["ResKey_Action_3598"] = "radiobeep.ogg",
+    ["ResKey_Action_3692"] = "skynet-iads-compiled.lua",
+    ["ResKey_Action_3696"] = "PAC-1 Skynet.lua",
     ["ResKey_ImageBriefing_3600"] = "132ndLogo.png",
 } -- end of mapResource

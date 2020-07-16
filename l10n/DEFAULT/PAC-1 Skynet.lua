@@ -8,12 +8,12 @@ redPAC01 = SkynetIADS:create('PAC-01')
 --iadsDebug.samWentDark = true
 --iadsDebug.contacts = true
 --iadsDebug.radarWentLive = true
---iadsDebug.noWorkingCommmandCenter = false
---iadsDebug.ewRadarNoConnection = false
---iadsDebug.samNoConnection = false
+--iadsDebug.noWorkingCommmandCenter = true
+--iadsDebug.ewRadarNoConnection = true
+--iadsDebug.samNoConnection = true
 --iadsDebug.jammerProbability = true
---iadsDebug.addedEWRadar = false
---iadsDebug.hasNoPower = false
+--iadsDebug.addedEWRadar = true
+--iadsDebug.hasNoPower = true
 --iadsDebug.harmDefence = true
 --iadsDebug.samSiteStatusEnvOutput = true
 --iadsDebug.earlyWarningRadarStatusEnvOutput = true
@@ -42,10 +42,12 @@ local sa15 = redPAC01:getSAMSiteByGroupName('SA-10 SCUD PD')
 redPAC01:getSAMSiteByGroupName('SAM1 - SA-10 SCUD'):addPointDefence(sa15):setHARMDetectionChance(100):setIgnoreHARMSWhilePointDefencesHaveAmmo(true)
 
 --set this SA-11 site to go live 70% of max range of its missiles (default value: 100%)
-redPAC01:getSAMSiteByGroupName('SAM1 - SA-11 Bandar A'):setGoLiveRangeInPercent(70)
+--redPAC01:getSAMSiteByGroupName('SAM1 - SA-11 Bandar A'):setGoLiveRangeInPercent(70)
 
 --activate the radio menu to toggle IADS Status output
 --redPAC01:addRadioMenu()
+
+redPAC01:setupSAMSitesAndThenActivate()
 
 -- activate the IADS
 redPAC01:activate()
