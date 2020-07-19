@@ -5,7 +5,6 @@ mapResource =
     ["ResKey_Action_2371"] = "PAC-3 Skynet.lua",
     ["ResKey_Action_2372"] = "PAC-4 Skynet.lua",
     ["ResKey_Action_3452"] = "Moose.lua",
-    ["ResKey_Action_3462"] = "CVN TKR.lua",
     ["ResKey_Action_3470"] = "OPBH_RAT2.lua",
     ["ResKey_Action_3471"] = "Rescue_Helo.lua",
     ["ResKey_Action_3537"] = "CTLD.lua",
@@ -16,5 +15,6 @@ mapResource =
     ["ResKey_Action_3598"] = "radiobeep.ogg",
     ["ResKey_Action_3692"] = "skynet-iads-compiled.lua",
     ["ResKey_Action_3696"] = "PAC-1 Skynet.lua",
+    ["ResKey_Action_3717"] = "CVN TKR.lua",
     ["ResKey_ImageBriefing_3600"] = "132ndLogo.png",
 } -- end of mapResource

@@ -1,3 +1,5 @@
 TexacoStennis=RECOVERYTANKER:New(UNIT:FindByName("CVN-73"), "ARC_S3B")
+TexacoStennis:SetTACAN(20, "ARC")
+TexacoStennis:SetRadio(241.75)
 --TexacoStennis:SetTakeoffAir()
 TexacoStennis:Start()
