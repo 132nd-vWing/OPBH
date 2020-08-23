@@ -5,7 +5,6 @@ mapResource =
     ["ResKey_Action_2371"] = "PAC-3 Skynet.lua",
     ["ResKey_Action_2372"] = "PAC-4 Skynet.lua",
     ["ResKey_Action_3452"] = "Moose.lua",
-    ["ResKey_Action_3471"] = "Rescue_Helo.lua",
     ["ResKey_Action_3537"] = "CTLD.lua",
     ["ResKey_Action_3581"] = "ATIS.lua",
     ["ResKey_Action_3591"] = "A2A Dispatcher.lua",
@@ -14,6 +13,6 @@ mapResource =
     ["ResKey_Action_3692"] = "skynet-iads-compiled.lua",
     ["ResKey_Action_3696"] = "PAC-1 Skynet.lua",
     ["ResKey_Action_3717"] = "CVN TKR.lua",
-    ["ResKey_Action_4830"] = "OPBH_RAT2.lua",
+    ["ResKey_Action_4888"] = "OPBH_RAT2.lua",
     ["ResKey_ImageBriefing_3914"] = "OPBHpatchlarge.png",
 } -- end of mapResource
