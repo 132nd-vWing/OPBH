@@ -8,12 +8,12 @@ redPAC01 = SkynetIADS:create('PAC-01')
 --iadsDebug.samWentDark = true
 --iadsDebug.contacts = true
 --iadsDebug.radarWentLive = true
---iadsDebug.noWorkingCommmandCenter = true
---iadsDebug.ewRadarNoConnection = true
---iadsDebug.samNoConnection = true
+--iadsDebug.noWorkingCommmandCenter = false
+--iadsDebug.ewRadarNoConnection = false
+--iadsDebug.samNoConnection = false
 --iadsDebug.jammerProbability = true
---iadsDebug.addedEWRadar = true
---iadsDebug.hasNoPower = true
+--iadsDebug.addedEWRadar = false
+--iadsDebug.hasNoPower = false
 --iadsDebug.harmDefence = true
 --iadsDebug.samSiteStatusEnvOutput = true
 --iadsDebug.earlyWarningRadarStatusEnvOutput = true
@@ -35,14 +35,14 @@ redPAC01:addCommandCenter(commandCenter)
 --redPAC01:getEarlyWarningRadarByUnitName('EW-Center3'):addPowerSource(powerSource):addConnectionNode(connectionNodeEW)
 
 --all SA-10 sites shall act as EW sites, meaning their radars will be on all the time:
-redPAC01:getSAMSitesByNatoName('SA-10'):setActAsEW(true)
+--redPAC01:getSAMSitesByNatoName('SA-10'):setActAsEW(false)
 
 --set the sa15 as point defence for the SA-10 site, we set it to always react to a HARM so we can demonstrate the point defence mechanism in Skynet
 local sa15 = redPAC01:getSAMSiteByGroupName('SA-10 SCUD PD')
 redPAC01:getSAMSiteByGroupName('SAM1 - SA-10 SCUD'):addPointDefence(sa15):setHARMDetectionChance(100):setIgnoreHARMSWhilePointDefencesHaveAmmo(true)
 
 --set this SA-11 site to go live 70% of max range of its missiles (default value: 100%)
---redPAC01:getSAMSiteByGroupName('SAM1 - SA-11 Bandar A'):setGoLiveRangeInPercent(70)
+--redPAC01:getSAMSiteByGroupName('SAM1 - SA-10 SCUD'):setGoLiveRangeInPercent(80)
 
 --activate the radio menu to toggle IADS Status output
 --redPAC01:addRadioMenu()
